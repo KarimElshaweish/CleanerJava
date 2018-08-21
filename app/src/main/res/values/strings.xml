@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CleanerJava</string>
+    <string name="cleaner">غسيل</string>
+    <string name="glass">تلميع</string>
+    <string name="other">خدمات أخرى</string>
+    <string name="add">إضافه</string>
+    <string name="carNumber">رقم اللوحة</string>
+    <string name="washOutIn">غسيل داخلى وخارجى</string>
+    <string name="washOut">غسيل خارجى</string>
+    <string name="washin">غسيل داخلى</string>
+    <string name="washEngine">غسيل محرك</string>
+    <string name="washBastm">غسيل بستم</string>
+    <string name="print">طباعة</string>
+    <string name="glassesFull">تلميع كامل</string>
+    <string name="glassesIn">تلميع داخلى</string>
+    <string name="glassesTabluAndDecorat">تلميع طبلون وديكورات</string>
+    <string name="glasesGlass">تلميع قزاز</string>
+    <string name="glassesMratb">تلميع مراتب</string>
+    <string name="glassesLight">تلميع انوار</string>
+    <string name="glassesCovers">تلميع كفرات</string>
+    <string name="cleanFull">تمسح كامل</string>
+    <string name="cleanOut">تمسيح خارجى</string>
+    <string name="cleanIn">تمسيح داخلى</string>
+    <string name="glasesCleaner">تمسيح قزاز</string>
+    <string name="caseMratbDoors">تكييس مراتب و ابواب</string>
+    <string name="price">5</string>
+    <string name="Money">المصروفات</string>
+    <string name="MoneyQuntity">قيمة المصروفات</string>
+    <string name="MoneyType">نوع المصروفات</string>
+    <string name="MoneyCost">مصروفات سابقة فترة شهر</string>
+    <string name="priceTotal">التكلفة الكلية :</string>
+    <string name="carName">اسم العربة</string>
+    <string name="carModel">موديل العربة</string>
+    <string name="familyCar">سيارات عائلية</string>
+    <string name="bus">شاحنات</string>
+    <string name="addandprint">اضافة وطباعة</string>
+</resources>
